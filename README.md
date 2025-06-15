@@ -98,7 +98,3 @@ Authorization: Bearer SEU_TOKEN_AQUI
 }
 ```
 
-
-## Licença
-
-Este projeto está sob a licença MIT.
