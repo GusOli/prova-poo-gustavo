@@ -1,7 +1,7 @@
 
 # API de Autenticação com Spring Boot + JWT
 
-Projeto backend com autenticação JWT, controle de usuários (ADMIN/USER) e gerenciamento de produtos.
+Projeto backend com autenticação JWT, controle de usuários (ADMIN/USER)
 
 ---
 
